@@ -1,6 +1,9 @@
 # GIFLAND
 
-npm i 
-
-bot secrets in config.json
+```
+git clone https://github.com/sickgod1/gifland
+cd gifland
+npm install
+node index.js
+```
 
